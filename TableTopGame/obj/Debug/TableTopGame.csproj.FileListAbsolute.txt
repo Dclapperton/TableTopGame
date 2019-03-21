@@ -1,0 +1,10 @@
+C:\Users\david\source\repos\TableTopGame\TableTopGame\bin\Debug\TableTopGame.exe.config
+C:\Users\david\source\repos\TableTopGame\TableTopGame\bin\Debug\TableTopGame.exe
+C:\Users\david\source\repos\TableTopGame\TableTopGame\bin\Debug\TableTopGame.pdb
+C:\Users\david\source\repos\TableTopGame\TableTopGame\obj\Debug\TableTopGame.csprojAssemblyReference.cache
+C:\Users\david\source\repos\TableTopGame\TableTopGame\obj\Debug\TableTopGame.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\TableTopGame\TableTopGame\obj\Debug\TableTopGame.exe
+C:\Users\david\source\repos\TableTopGame\TableTopGame\obj\Debug\TableTopGame.pdb
+C:\Users\david\source\repos\TableTopGame\TableTopGame\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\david\source\repos\TableTopGame\TableTopGame\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\david\source\repos\TableTopGame\TableTopGame\obj\Debug\TableTopGame.csproj.CopyComplete
