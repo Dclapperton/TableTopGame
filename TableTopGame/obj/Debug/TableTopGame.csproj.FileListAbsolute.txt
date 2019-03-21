@@ -5,6 +5,5 @@ C:\Users\david\source\repos\TableTopGame\TableTopGame\obj\Debug\TableTopGame.csp
 C:\Users\david\source\repos\TableTopGame\TableTopGame\obj\Debug\TableTopGame.csproj.CoreCompileInputs.cache
 C:\Users\david\source\repos\TableTopGame\TableTopGame\obj\Debug\TableTopGame.exe
 C:\Users\david\source\repos\TableTopGame\TableTopGame\obj\Debug\TableTopGame.pdb
-C:\Users\david\source\repos\TableTopGame\TableTopGame\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\david\source\repos\TableTopGame\TableTopGame\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\david\source\repos\TableTopGame\TableTopGame\obj\Debug\TableTopGame.csproj.CopyComplete

@@ -17,9 +17,9 @@ namespace TableTopGame.Models
 
         public override bool IsValid()
         {
-            if (Program.CurrentLocation.Orientation == 0)
+            if (Program.CurrentLocation.Orientation == (Orientation)OrientationLength)
             {
-                Program.CurrentLocation.Orientation = (Orientation)OrientationLength;
+                Program.CurrentLocation.Orientation = 0;
 
                 return false;
             }

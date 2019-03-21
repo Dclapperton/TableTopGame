@@ -18,11 +18,9 @@ namespace TableTopGame.Models
 
         public override bool IsValid()
         {
-            int enumLength = Enum.GetValues(typeof(Orientation)).Length;
-
-            if ((int)Program.CurrentLocation.Orientation == OrientationLength)
+            if ((int)Program.CurrentLocation.Orientation == 0)
             {
-                Program.CurrentLocation.Orientation = 0;
+                Program.CurrentLocation.Orientation = (Orientation)OrientationLength;
 
                 return false;
             }
